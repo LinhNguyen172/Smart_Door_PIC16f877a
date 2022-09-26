@@ -1,0 +1,5 @@
+/smart_door.X/build/*
+/smart_door.X/debug/*
+/smart_door.X/dist/*
+/smart_door.X/nbproject/*
+/smart_door.X/Makefile
